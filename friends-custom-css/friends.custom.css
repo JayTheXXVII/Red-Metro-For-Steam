@@ -4472,6 +4472,10 @@ button.DialogButton.roleButton.Disabled .roleSubtitle {
 }
 
 /*Jay*/
+/*Friends Context Menu*/
+.GreenEnvelopeMenu, .PP7LM0Ow1K5qkR8WElLpt {background: var(--virtualmenu-bg) !important;}
+._1n7Wloe5jZ6fSuvV18NNWI:hover, ._1n7Wloe5jZ6fSuvV18NNWI._18z-3vkWndCBO5WJgFldRK { color: white !important; background: red !important;}
+
 /*Friends List Notification*/
 .ChatRoomListGroupItem .FriendMessageCount, .unreadFriend .FriendMessageCount {
     font-size: 10px !important;

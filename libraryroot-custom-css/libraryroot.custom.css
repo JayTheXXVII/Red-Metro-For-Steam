@@ -7503,7 +7503,8 @@ button[class*="appdetailsheader_ExitEditModeButton_"][class*="appdetailsheader_E
 /*REC Symbol & Length*/
 .UJn_t5bdfyjDFBCTAl2bL {color: #ff1a1a !important;}
 
-
+/*Hover*/
+._2FxbHJzYoH024ko7zqcJOf {background-color: var(--darkgrey);}
 
 /*7/17/24*/
 /*Patch Notes*/
@@ -7554,8 +7555,9 @@ div.LowPerfMode ._39RheXihcN6H2k2muQTjkI ._3DeO92O5aVkcdwEBCJDjWm, ._39RheXihcN6
 ._18QCu-7MTzd51UpVbYysDy {--scrollbarSize: 0px;}
 /*Off*/
 ._2bl0iQ9xigbq4Zd1NI6NZl, ._2_vG6TwMW2XtyLlTEaODH9 {background: var(--grey);}
+._2_vG6TwMW2XtyLlTEaODH9 {--left-track-color: darkred;}
 /*On*/
-._2bl0iQ9xigbq4Zd1NI6NZl::before {background: var(--grey);}
+._2bl0iQ9xigbq4Zd1NI6NZl::before {background: red;}
 
 /*Storage Dropdown*/
 ._30wJO3MC4x-I1OWpy1TAeE._DialogInputContainer { background: var(--darkgrey);}

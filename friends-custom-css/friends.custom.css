@@ -4498,3 +4498,14 @@ button.DialogButton.roleButton.Disabled .roleSubtitle {
 ._2XZq-_f6npaQdAgeRzKIkz.no-drag.Yd-DsWkYiFiYwpci--Yk_.Panel.Focusable {
     background: var(--darkgrey);
 }
+
+/*Chat Fix - 8/7/24*/
+._2WfNoLBdfKwyutA6ho4aSH {margin-left: 0px !important;}
+._3Ule3rolhZJiBN4yNNtk1s, ._2WfNoLBdfKwyutA6ho4aSH {background-color: var(--darkgrey);}
+._3Ule3rolhZJiBN4yNNtk1s .RVIs84dAE6wHcjH9tkinc {background: transparent !important; align-self: center;}
+.RVIs84dAE6wHcjH9tkinc._3zOBeq5W4cNK3lRz_7aroW, .RVIs84dAE6wHcjH9tkinc.Aupswi7-c-w3XwNO5cp2i {background-color: var(--darkgrey);}
+/*Icon Hover*/
+.Aupswi7-c-w3XwNO5cp2i:hover, .Aupswi7-c-w3XwNO5cp2i:focus, .RVIs84dAE6wHcjH9tkinc._3zOBeq5W4cNK3lRz_7aroW:hover, .RVIs84dAE6wHcjH9tkinc._3zOBeq5W4cNK3lRz_7aroW:focus { background-color: var(--grey); color: #fff;}
+._3Ule3rolhZJiBN4yNNtk1s .RVIs84dAE6wHcjH9tkinc:not(.jaQN2IyN4P8LZXJ6P11qy) { background: linear-gradient(136deg, #d60000 1%, #ff1a1a 60%);}
+/*Hover*/
+._3qYm9oxf8MdyvQDJgbfCrF:hover { background-color: var(--grey);}

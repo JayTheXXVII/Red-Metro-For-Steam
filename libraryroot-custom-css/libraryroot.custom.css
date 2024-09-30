@@ -7558,12 +7558,16 @@ div.LowPerfMode ._39RheXihcN6H2k2muQTjkI ._3DeO92O5aVkcdwEBCJDjWm, ._39RheXihcN6
 ._2kwFFHckg8jvnwJfg9-la8 {background: var(--darkergrey);}
 ._1-vlriAtKYDViAEunue4VO._2DpXjzK3WWsOtUWUrcuOG7 {background: linear-gradient(to right, #ff0000, #961f1f) !important; background-color: unset !important;}
 ._18QCu-7MTzd51UpVbYysDy {--scrollbarSize: 0px;}
+._2qEiBY2V1cc3dNa4Jzvk37, ._1lSrlW8WUqPMzvOmyeS6W9 {background-color: transparent !important;}
 /*Off*/
 ._2bl0iQ9xigbq4Zd1NI6NZl, ._2_vG6TwMW2XtyLlTEaODH9 {background: var(--grey);}
 ._2_vG6TwMW2XtyLlTEaODH9 {--left-track-color: darkred;}
 /*On*/
 ._2bl0iQ9xigbq4Zd1NI6NZl::before {background: red;}
-
+/*Popout*/
+._29AJUo6aKT93gX24N5WFj_ {background-color: var(--darkgrey);}
+.DesktopUI ._3GbHFVMCkeB-Dv1uphs9Xo {background: var(--darkergrey); border: 1px solid #1b0e0e;}
+._3GbHFVMCkeB-Dv1uphs9Xo ._3rd-7k8MaTd-1s1N1zlrbG ._2tNpad3vtsqKJArP-xArfx {background-color: var(--grey);}
 /*Storage Dropdown*/
 ._30wJO3MC4x-I1OWpy1TAeE._DialogInputContainer { background: var(--darkgrey);}
 ._2oAiZidGyUxL-hfupFDQ2m:hover { background: rgb(var(--black),.5) !important; -webkit-text-stroke-width: thin;}

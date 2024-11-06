@@ -4499,7 +4499,7 @@ button.DialogButton.roleButton.Disabled .roleSubtitle {
     background: var(--darkgrey);
 }
 
-/*Chat Fix*/
+/*Chat Fix - */
 ._2WfNoLBdfKwyutA6ho4aSH {margin-left: 0px !important;}
 ._3Ule3rolhZJiBN4yNNtk1s, ._2WfNoLBdfKwyutA6ho4aSH {background-color: var(--darkgrey);}
 ._3Ule3rolhZJiBN4yNNtk1s .RVIs84dAE6wHcjH9tkinc {background: transparent !important; align-self: center;}
@@ -4509,4 +4509,3 @@ button.DialogButton.roleButton.Disabled .roleSubtitle {
 ._3Ule3rolhZJiBN4yNNtk1s .RVIs84dAE6wHcjH9tkinc:not(.jaQN2IyN4P8LZXJ6P11qy) { background: linear-gradient(136deg, #d60000 1%, #ff1a1a 60%);}
 /*Hover*/
 ._3qYm9oxf8MdyvQDJgbfCrF:hover { background-color: var(--grey);}
-._3qYm9oxf8MdyvQDJgbfCrF ._10OzYaCdn7cgVMec9ozEJG, ._10OzYaCdn7cgVMec9ozEJG {background: radial-gradient(ellipse farthest-corner at 50% 0%, hsl(0deg 0% 26%) 0%, hsl(0deg 0% 26%) 50%, hsl(0deg 0% 22%) 100%) !important;}

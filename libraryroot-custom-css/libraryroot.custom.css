@@ -7669,3 +7669,26 @@ div.LowPerfMode ._39RheXihcN6H2k2muQTjkI ._3DeO92O5aVkcdwEBCJDjWm, ._39RheXihcN6
 		.uCBCZOATxD3vzPCGUgDEp { background-color: #26262680;}
 	/*Background Color*/
 		._2OsQkIMNf9Cnl4xfBXMApr {background-color: var(--darkergrey);}
+		
+/*Download Game Banner*/
+._3KDkLoCR8OM8xfdQysKn9t ._30N3oYMkrAbxU-Vxc_1l6C {
+    height: 65%;
+    width: 100%;
+    background: linear-gradient(180deg, transparent 0%, #952121 20%, #952121 100%);
+    margin-left: -100%;
+}
+/*Download Game Banner Width*/
+._3WauYi7bNDSGIogMLPVYES {
+    width: 65vw;
+}
+
+
+/*drag*/
+.OINnOU8K5HzPe2nzczpZi._2m6Q3ca-wXeLIVShFCO51T.d9VKGABvFZQGmdqtaicMo, .IbePLaw-vSvhG1GTenYFg .OINnOU8K5HzPe2nzczpZi._2m6Q3ca-wXeLIVShFCO51T.d9VKGABvFZQGmdqtaicMo:has(._3-SbBb63lDnu6LzKV-q3Cg) {
+    border: 2px solid #ff1e1e;
+    background: radial-gradient(100% 100% at 33% 45%, #941111 0%, #3d0808 100%);
+}
+._2m6Q3ca-wXeLIVShFCO51T ._2sCvZTD6ZTZz3p9_ekH_gI ._3B3J2qtE6ozU_VXMMN2L51 {
+    border-style: dashed;
+    border-color: #ff1e1e;
+}

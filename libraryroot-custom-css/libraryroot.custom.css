@@ -7320,7 +7320,11 @@ button[class*="appdetailsheader_ExitEditModeButton_"][class*="appdetailsheader_E
 /*Download Page 'i' Hover Background*/
 ._38Kbc0h04V8wdbbGE5yN11 {padding: 15px; background-color: var(--darkgrey);}
 
+/*Download Page Hover*/
+._2sCvZTD6ZTZz3p9_ekH_gI:hover ._3B3J2qtE6ozU_VXMMN2L51 { border-color: transparent !important;}
 
+/*Download Page Gap Fix*/
+._vrwj4IQ-vqMravrbJb64 {gap: 0px;}
 
 /*Library*/
 /*Game Launch Menu*/

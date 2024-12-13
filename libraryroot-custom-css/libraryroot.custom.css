@@ -7671,10 +7671,12 @@ div.LowPerfMode ._39RheXihcN6H2k2muQTjkI ._3DeO92O5aVkcdwEBCJDjWm, ._39RheXihcN6
 		._2OsQkIMNf9Cnl4xfBXMApr {background-color: var(--darkergrey);}
 /*Downloads Page*/		
 	/*Download Page Fix*/
-	._2Nq6ov7A1hGcHXVOXNt_OE {overflow-y: scroll;}
+	/*._2Nq6ov7A1hGcHXVOXNt_OE {overflow-y: scroll;}*//*Causes Issues on Library, But has full Scroll effect*/
+	._1bq4x9pa4-9RLY-dXWUZTp.Panel {overflow: scroll;}
 	._1l0LmmqDUXH19SjfELddn7 {overflow: visible;}
 	._1ugNiylO2vKXhirsGocAxa {overflow-y: unset;}
-
+	._373v1eWNyaPKhgnea9FZSt {position: relative;}
+	
 	/*Download Game Banner*/
 	._3KDkLoCR8OM8xfdQysKn9t ._30N3oYMkrAbxU-Vxc_1l6C {height: 65%; width: 100%; background: linear-gradient(180deg, transparent 0%, #952121 20%, #952121 100%);margin-left: -100%;}
 	

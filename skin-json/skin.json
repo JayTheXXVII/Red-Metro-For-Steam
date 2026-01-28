@@ -1,12 +1,12 @@
 {
-  "name": "Metro by Rose",
-  "author": "Rose",
+  "name": "Red Metro For Steam",
+  "author": "JayTheXXVII",
   "description": "A skin heavily inspired by the original Metro for Steam.",
-  "source": "https://github.com/RoseTheFlower/MetroSteam",
+  "source": "",
   "github":
   {
-    "owner": "RoseTheFlower",
-    "repo_name": "MetroSteam"
+    "owner": "JayTheXXVII",
+    "repo_name": "RedMetroForSteam"
   },
   "funding": {
     "kofi": "J3J3U4PJ"
@@ -14,6 +14,7 @@
   "tags":
   [
     "Dark",
+	"Red",
     "Metro",
     "Windows 10",
     "Windows 8"
@@ -21,6 +22,7 @@
   "header_image": "https://raw.githubusercontent.com/RoseTheFlower/MetroSteam/master/preview.png",
   "splash_image": "https://i.imgur.com/PQF7r4t.png",
   "UseDefaultPatches": true,
+  "Steam-WebKit": "webkit/webkit.css",
   "Patches":
   [
         {

@@ -1,9 +1,9 @@
 ## Installation
-╔═╢Install [SFP](https://github.com/PhantomGamers/SFP)  
-║   
-╠══╢Place Red Metro For Steam folder in \Steam\steamui\skins folder.   
-║  
-╚═══╢Select Red Metro For Steam in SFP Settings
+1.  Install [Millennium](https://steambrew.app/) or [SFP](https://github.com/PhantomGamers/SFP)
+2.  Download the [Latest Release](https://github.com/JayTheXXVII/Red-Metro-For-Steam/releases)
+3.  Extract to ```\Steam\steamui\skins``` folder
+4.  Enable in [Millennium](https://steambrew.app/) or [SFP](https://github.com/PhantomGamers/SFP)
+
 # Screenshots
 |Store|
 |---|
